@@ -33,7 +33,10 @@ Este es un ejemplo de texto que da entrada a una lista numerada:
 + Elemento de lista 5
 + Elemento de lista 6
 +
-*cursiva*	cursiva
-_cursiva_	cursiva
-**negrita**	negrita
-__negrita__	negrita
+*cursiva*	
+_cursiva_	
+**negrita**	
+__negrita__	
+
+![Texto alternativo](/ruta/a/la/imagen.jpg "Título alternativo")
+Este [enlace](https://es.wikipedia.org) te llevará a la Wikipedia
